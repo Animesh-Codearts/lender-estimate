@@ -1,0 +1,545 @@
+@charset "utf-8";
+/* CSS Document */
+
+@media  (max-width: 1599px){
+  .why_shoose_us_section .text_part h2{font-size: 38px;}
+  .why_shoose_us_section .text_part h6{letter-spacing: 2px;}
+  .how_it_works_section .portion .com_text h2{font-size: 38px;}
+  .how_it_works_section .portion .com_text h6{letter-spacing: 2px;}
+  .how_it_works_section .portion .ico_text_at .at_i_box h4{font-size: 22px;}
+  .about_us_inner .abt_inr_text h2{font-size: 38px;}
+  .about_us_inner .abt_inr_text h6{letter-spacing: 2px;}
+  .contact_form .text_contact h3{font-size: 38px;}
+  .why_shoose_us_section .owl-carousel .owl-nav{display: none;}
+  .why_shoose_us_section .owl-carousel .owl-dots{text-align: center;} 
+  .why_shoose_us_section .owl-carousel .owl-dots .owl-dot{background: #000; width: 15px; height: 15px; border-radius: 50%; border: 3px solid #15af7b; margin: 0 5px;}
+  .why_shoose_us_section .owl-carousel .owl-dots .owl-dot.active{background: #15af7b;}
+  .hero-banner .hero-banner-left-content .hero-banner-text .main-heading{font-size: 60px;}
+  .custom-heading h2{font-size: 48px;}
+}
+
+@media  (max-width: 1439px){
+  .why_shoose_us_section .rai_box_section::before{right: 60px; background-size: 98%;}
+  .hero-banner .hero-banner-left-content .hero-banner-text .main-heading{font-size: 55px; line-height: 80px; margin-bottom: 45px;}
+  .custom-heading h2{font-size: 45px;}
+}
+
+@media  (max-width: 1365px){
+  .custom-heading h2{font-size: 42px;}
+  .hero-banner .hero-banner-left-content .hero-banner-text .main-heading{font-size: 52px; line-height: 76px;}
+}
+
+
+@media  (max-width: 1200px) {
+    .hero-banner .hero-banner-right-content {padding-left: unset;}
+
+    /**samar_css_starts**/
+    .contact_form .text_contact h3{font-size: 35px; line-height: 42px;}
+    .about_us_inner .abt_inr_text h2{font-size: 35px; line-height: 42px; margin-bottom: 20px;}
+    .about_us_inner .abt_inr_text p{margin-bottom: 10px;}
+    .about_us_inner .abt_inr_text .abt_inr_btn{margin: 30px 0 0 0;}
+    .how_it_works_section .portion .com_text h2{font-size: 35px; line-height: 42px; margin-bottom: 20px;}
+    .why_shoose_us_section .text_part h2{font-size: 35px; line-height: 42px; text-transform: capitalize;}
+    .why_shoose_us_section .text_part{margin-bottom: 35px;}
+    .why_shoose_us_section .rai_box_section::before{background-size: 90%; right: 0px;}
+    .how_it_works_section .portion .com_text h2{font-size: 35px; line-height: 42px;}
+    .why_shoose_us_section .rai_box_section .rai_box_slide h3{font-size: 22px; }
+    .hero-banner .carousel{height: 660px;}
+    .hero-banner .hero_banner_form_right{margin-top: -580px;}
+    /**samar_css_ends**/
+   
+
+}
+@media (min-width: 1024px) and (max-width: 1200px){
+
+    .header-bottom .custom-navbar-nav {margin-left: 43px;}
+    .header-bottom .custom-navbar-nav .nav-item .nav-link {font-size: 14px;}
+    .navbar-brand img { width: 89%;}
+    .custom-button {padding: 13px 31px;font-size: 14px;}
+
+    .hero-banner .hero-banner-left-content .hero-banner-text .main-heading {font-size: 47px;line-height: 65px;margin-bottom: 32px;}
+    .hero-banner .hero-banner-right-content .hero-banner-form-wrap {padding: 30px 25px;}
+    .input-group input {padding: 13px 0 13px 20px;}       
+    .hero-banner .hero-banner-right-content .hero-banner-form-wrap .hero-banner-form-heading .form-heading { font-size: 23px;}
+    .hero-banner-form-heading p {font-size: 13px; }
+    .hero-banner {padding: 0;}
+
+	.footer-main .footer-content .footer-text p {padding-right: 0;}
+    .footer-main .footer-content .footer-text p, .footer-main .footer-content .footer-text li a {font-size: 13px;line-height: 26px;}
+    .footer-main .footer-content .footer-socials { margin-top: 15px;}
+
+    .service-card-title {font-size: 17px;}
+    .service-card-content-inner p { font-size: 13px;line-height: 23px;}
+    .service-card-content-inner {  padding-left: 15px;padding-right: 15px;}
+
+
+    /**samar_css_starts**/
+    .about_us_inner .abt_inr_text h2{font-size: 32px; line-height: 37px;}
+    .about_us_inner .abt_inr_text p{font-size: 15px; line-height: 24px; margin-bottom: 5px;}
+    .about_us_inner .abt_inr_text_two p{font-size: 15px; line-height: 25px; margin-bottom: 5px;}
+    .about_us_inner .abt_inr_text_two{margin-top: 10px;}
+    .about_us_inner{padding: 85px 0;}
+    .how_it_works_section .portion .com_text h2{font-size: 32px; line-height: 37px;}
+    .how_it_works_section .portion .ico_text_at .at_i_box h4{font-size: 20px; margin-bottom: 10px;}
+    .how_it_works_section{padding: 85px 0;}
+    .how_it_works_section .portion .ico_text_at{margin: 30px 0 0 20px; padding: 30px 0 30px 0;}
+    .how_it_works_section .portion .com_text{padding: 15px 0 0 20px;}
+    .why_shoose_us_section .text_part h2{font-size: 32px; line-height: 37px;}
+    .why_shoose_us_section{padding: 85px 0 35px 0;}
+    .why_shoose_us_section .rai_box_section::before{display: none;}
+    /**samar_css_ends**/
+
+
+}
+
+@media (min-width: 992px) and (max-width: 1024px) {
+
+    .header-bottom .custom-navbar-nav {margin-left: 43px;}
+    .header-bottom .custom-navbar-nav .nav-item .nav-link {font-size: 13px;}
+    .custom-button {padding: 13px 31px;font-size: 13px;}
+
+    .hero-banner .hero-banner-left-content .hero-banner-text .main-heading {font-size: 47px;line-height: 65px;margin-bottom: 32px;}
+    .hero-banner .hero-banner-right-content .hero-banner-form-wrap {padding: 30px 25px;}
+    .input-group input {padding: 13px 0 13px 20px;}       
+    .hero-banner .hero-banner-right-content .hero-banner-form-wrap .hero-banner-form-heading .form-heading { font-size: 23px;}
+    .hero-banner-form-heading p {font-size: 13px; }
+    .hero-banner {padding: 0;}
+
+	/* .footer-main { padding: 117px 0 63px;} */
+    .footer-main .footer-content .footer-text p {padding-right: 0;}
+    .footer-main .footer-content .footer-text p, .footer-main .footer-content .footer-text li a {font-size: 13px;line-height: 26px;}
+    .footer-main .footer-content .footer-socials { margin-top: 15px;}
+
+    .service-card-title {font-size: 17px;}
+    .service-card-content-inner p { font-size: 13px;line-height: 23px;}
+    .service-card-content-inner {  padding-left: 15px;padding-right: 15px;}
+    .custom-loan-inner-main .loan-details-list {font-size: 14px;line-height: 30px;}
+    .custom-loan-inner-main .loan-details-list li:not(:last-child) {margin-bottom: 0px;}
+
+    .welcome-to-content .card .card-body .card-title {
+      margin-bottom: 12px;
+    font-size: 16px;}
+    .welcome-to-content .card .card-body .card-text {line-height: 23px;font-size: 13px;}
+
+
+    /**samar_css_starts**/
+    .why_shoose_us_section .rai_box_section::before{display: none;}
+    .contact_form .text_contact h3{font-size: 32px; line-height: 37px;}
+    .contact_form .form_box .cont_main_section_form{padding: 40px;}
+    .conatct_page{padding: 80px 0;}
+    .custom-inner-banner-content{padding: 100px 0;}
+    .custom-heading h2{font-size: 35px;} 
+    .custom-pad{padding: 80px 0;}
+    .hero-banner .hero-banner-left-content .hero-banner-text .main-heading{font-size: 45px; line-height: 64px; margin-bottom: 30px;}
+    .welcome-to-content .card{min-height: 350px;}
+    .loan-prog-list-ul li{margin-bottom: 18px;}
+    .custom-heading{margin-bottom: 60px;}
+    .welcome-to-content{margin-top: 30px;}
+    /**samar_css_ends**/
+    
+
+}
+
+@media only screen and (max-width: 991px) {    
+   .navbar-toggle { float: left;margin: 0; height: 45px; width: 45px; border-radius: 0;z-index: 1}
+.navbar-toggle .icon-bar { width: 24px; background: rgb(90, 90, 90);transition: .5s ease;}
+.navbar-toggle.collapsed .icon-bar:nth-child(2){transform: rotate(0)translateY(0)translateX(0);}
+.navbar-toggle.collapsed .icon-bar:nth-child(3){opacity:1}
+.navbar-toggle.collapsed .icon-bar:nth-child(4){transform:rotate(0)translateY(0)translateX(0);}
+.navbar-toggle .icon-bar:nth-child(2){transform: rotate(-45deg)translateY(5px)translateX(-5px);}
+.navbar-toggle .icon-bar:nth-child(3){opacity: 0}
+.navbar-toggle .icon-bar:nth-child(4){transform:rotate(45deg)translateY(-4px)translateX(-3px);}
+.navbar-header {display: block;}
+
+/* ================= sb 09.05.2022 ================= */
+
+.custom-pad { padding: 40px 0;}
+
+header {position: absolute;width: 100%;background-color: var(--c-neutral-white);z-index: 999;top: 0;}
+.header-bottom .custom-navbar-nav {margin-left: unset;}
+.hero-banner {margin-top: 181px;padding: 0;}
+
+.hero-banner .hero-banner-right-content .hero-banner-form-wrap {margin: 0 auto;}
+.hero-banner .hero-banner-right-content .hero-banner-form-wrap .hero-banner-form-heading .form-heading {font-size: 21px;padding-bottom: 12px;margin-bottom: 12px;}
+.hero-banner-form-heading p {font-size: 13px; line-height: 19px;}
+.hero-banner-form-body .input-group input {padding: 12px 0 12px 16px;font-size: 13px;}
+.hero-banner-form-body .input-group {margin-bottom: 10px;}
+.hero-banner .hero-banner-right-content .hero-banner-form-wrap {padding: 30px 25px;width: 100%;}
+.hero-banner .hero-banner-left-content .hero-banner-text .main-heading {font-size: 38px;line-height: 50px;margin-bottom: 20px;}
+.hero-banner .hero-banner-left-content { margin-bottom: 15px;}
+.custom-button {padding: 12px 47px;font-size: 13px;}
+.welcome-to-section .custom-heading {margin-bottom: 15px;}
+.custom-heading h6 {font-size: 13px;line-height: 21px;}
+.custom-heading h2 {font-size: 30px;}
+
+.welcome-to-section.custom-pad {padding: 50px 0;}
+.welocome-to-heading-text p { padding: 0px 1px;font-size: 12px;line-height: 21px;}
+.welcome-to-content {margin-top: 25px;}
+.welcome-to-content .card {width: 100%;min-height: 350px;margin-bottom: 20px;}
+
+.footer-main {padding: 65px 0 63px;}
+.footer-main .footer-content {margin-top: 25px;}
+.footer-main .footer-content .footer-socials { margin-top: 10px;}
+.footer-main .footer-content .footer-text p {padding-right: 0;}
+.footer-main .footer-content .footer-text p, .footer-main .footer-content .footer-text li a {line-height: 26px;}
+
+/* ================= sb 09.05.2022 ================= */
+/* ================= sb 10.05.2022 ================= */
+
+.welcome-to-content .card img {width: 25%;}
+.welcome-to-content .card .card-body .card-title {margin-bottom: 11px;font-size: 17px;}
+.welcome-to-content .card .card-body .card-text {line-height: 24px;}
+.welcome-to-content .card .card-body {padding: 16px 13px 0;}
+/* .our-services-left-list .services-left-list-wrap {
+  text-align: center;
+} */
+.our-services-left-list .services-left-list-wrap .text p  {width: 100%;}
+.our-services-section-right .video-box {position: relative; top: -115px;width: 80%;height: 300px;left: 0;margin: 0 auto;}
+/* ================= sb 10.05.2022 ================= */
+
+/* ================= sb 13.05.2022 ================= */
+.about-section-right-content {padding-top: 35px;text-align: center;}
+.about-section-right-content .custom-heading {margin-bottom: 25px;}
+.about-section-text p {  margin-bottom: 18px; font-size: 14px; line-height: 24px;}
+.custom-inner-banner {margin-top: 181px;}
+.loan-inner-right-content {margin-top: 35px;}
+.our-services-left-list .services-left-list-wrap .heading h5 {
+  font-size: 22px;
+margin-bottom: 15px;}
+.our-services-left-list .services-left-list-wrap .text p {
+  font-size: 14px;
+  line-height: 25px;
+margin-bottom: 20px;}
+.our-services-left-list .services-left-list-wrap .icon {
+  margin-bottom: 15px;}
+  .our-services-section-right .video-box {
+    top: -100px;
+    width: 40%;
+    height: 252px;}
+    .our-services-section-left.custom-pad {
+      padding-bottom: 100px;
+    }
+    .loan-prog-img-map {
+      position: relative;
+    width: 100%;margin-top: 30px;}
+    .loan-prog-list-ul {
+      column-count: 2;
+      margin-bottom: 25px;
+    }
+    .custom-loan-program-content .custom-heading {
+      margin-bottom: 30px;
+    }
+    .load-section.custom-pad {
+      padding: 0;
+    }
+/* ================= sb 13.05.2022 ================= */
+
+
+    /**samar_css_starts**/
+    
+    .custom-inner-banner-content{padding: 80px 0;}
+    .custom-inner-main-heading h2{font-size: 25px;}
+    .conatct_page .contact_box{padding: 20px 15px;}
+    .conatct_page .contact_box h6{font-size: 16px;}
+    .conatct_page .contact_box h3{font-size: 17px;}
+    .contact_form .text_contact h3{font-size: 30px; line-height: 35px; margin-bottom: 40px;}
+    .floating-label{font-size: 15px;}
+    .map_section{height: 350px;}
+    .about_us_inner .abt_inr_text h6{margin-top: 15px;}
+    .about_us_inner .abt_inr_text h2{font-size: 30px; line-height: 35px;}
+    .about_us_inner .abt_inr_text_two p{margin-bottom: 0;}
+    .about_us_inner{padding: 75px 0;}
+    .about_us_inner .abt_inr_text h2{line-height: 35px;}
+    .why_best .img_abt_inr img{margin-top: 15px;}
+    .how_it_works_section .portion .com_text h2{font-size: 30px; line-height: 35px;}
+    .how_it_works_section .portion .com_text{padding: 5px 0 0 10px;}
+    .how_it_works_section .portion .com_text p{font-size: 15px; line-height: 25px;}
+    .how_it_works_section .portion .ico_text_at{padding: 20px 0 50px 0; margin: 25px 0 0 10px;}
+    .how_it_works_section .portion .ico_text_at .at_i_box img{width: 40px;}
+    .how_it_works_section .portion .ico_text_at .at_i_box h4{font-size: 18px; margin-bottom: 10px;}
+    .how_it_works_section .portion .ico_text_at .at_i_box p{font-size: 15px; line-height: 25px;}
+    .how_it_works_section .portion .ico_text_at .at_i_box{padding-left: 52px; margin-bottom: 20px;}
+    .how_it_works_section{padding: 70px 0;}
+    .why_shoose_us_section .text_part h2{font-size: 30px; line-height: 35px;}
+    .why_shoose_us_section .rai_box_section::before{display: none;}
+    .why_shoose_us_section{padding: 60px 0 50px 0;}
+    .why_shoose_us_section .rai_box_section .rai_box_slide .icon_box{width: 120px; height: 120px; margin: 0 auto 15px;}
+    .why_shoose_us_section .rai_box_section .rai_box_slide{margin: 20px 10px;}
+    .why_shoose_us_section .rai_box_section .rai_box_slide .icon_box .numbr_box{width: 40px; height: 40px;}
+    .hero-banner{margin-top: 181px; }
+    .hero-banner .hero-banner-left-content .hero-banner-text .main-heading{font-size: 35px; line-height: 50px; margin-bottom: 20px;}
+    .hero-banner .carousel{height: 490px;}
+    .hero-banner .hero-banner-right-content .hero-banner-form-wrap{padding: 20px 15px;}
+    .custom-heading h2{font-size: 28px;}
+    .welcome-to-content .card{min-height: 310px; padding: 25px 0;}
+    .welcome-to-content .card .card-body .card-text{margin-bottom: 15px;}
+    .loan-prog-list-ul{margin-bottom: 20px;}
+    .loan-prog-list-ul li{margin-bottom: 15px;}
+    /**samar_css_ends**/
+
+    .video-button {font-size: 53px;}
+    .our-services-section-right .video-box .modal-dialog { max-width: 90%; margin: 10px auto;} 
+    .hero-banner .hero_banner_form_right{width: 360px; margin-top: -420px;}
+
+
+}
+
+
+@media (max-width: 767px){
+
+    /* ================= sb 09.05.2022 ================= */
+    .hero-banner .hero-banner-left-content {text-align: center;}
+    .hero-banner .hero-banner-left-content .hero-banner-text .main-heading {font-size: 36px;line-height: 45px;margin-bottom: 12px;padding: 0px 19%;}
+    .custom-button { padding: 10px 35px; font-size: 12px;}
+    .footer-main { padding: 120px 0 50px;}    
+    /* ================= sb 09.05.2022 ================= */
+
+    /* ================= sb 10.05.2022 ================= */
+    .navbar-brand img {width: 75%;}
+    .hero-banner {margin-top: 160px;padding-bottom: 0;}
+    .hero-banner .hero-banner-right-content .hero-banner-form-wrap { /**width: 64%;position: absolute;right: 0;left: 0;margin: 0 auto;**/}
+    .hero-banner .hero_banner_form_right{width: 100%; margin-top: 0; margin-bottom: 55px; top: 0;} 
+    .hero-banner .hero-banner-right-content .hero-banner-form-wrap .hero-banner-form-heading {margin-bottom: 10px;}
+    .hero-banner .hero-banner-right-content .hero-banner-form-wrap .hero-banner-form-heading .form-heading { font-size: 18px;padding-bottom: 10px;margin-bottom: 10px;}
+    .hero-banner-form-heading p {font-size: 12px;line-height: 17px;}
+    .hero-banner-form-body .input-group:nth-child(odd)  { margin-right: 6px;}
+    .hero-banner-form-body .input-group input { padding: 9px 0 9px 14px;font-size: 11px;}
+      .form-button .custom-button {padding: 9px 32px;font-size: 10px;}
+      .hero-banner-form-body .input-group {flex: 1 0 45%;}
+      .hero-banner-form-body form { display: flex;flex-wrap: wrap;}
+      .hero-banner-form-body .form-button {flex: 1 0 100%;}
+      .welcome-to-section.custom-pad {padding-top: 60px;}
+      .welcome-to-content .card img { width: fit-content ;}
+    /* ================= sb 10.05.2022 ================= */
+    /* ================= sb 13.05.2022 ================= */
+    .custom-inner-banner { margin-top: 161px;}
+    .custom-inner-banner-content { padding: 60px 0;}
+    .service-card-title {font-size: 18px;padding-bottom: 10px;}
+    .service-card-content-inner p { font-size: 14px;line-height: 26px;}
+    .custom-loan-inner-main .loan-inner-sidebar-item-menu h3 {font-size: 20px;padding: 13px 25px;}
+    .custom-loan-inner-main .loan-inner-sidebar-menu li a {font-size: 14px;padding-left: 25px;padding-top: 9.5px;padding-bottom: 9.5px;}
+    .custom-loan-inner-main .loan-inner-sidebar-contact {padding: 25px 0;}
+    .custom-loan-inner-main .loan-inner-sidebar-icon {width: 50px;height: 50px;line-height: 48px;font-size: 21px;margin: 0;}
+      .custom-loan-inner-main .loan-inner-sidebar-separator {display: none;}
+      .custom-loan-inner-main .loan-inner-sidebar-tagline {margin-bottom: 0;}
+      .custom-loan-inner-main .loan-details-list {font-size: 13px;line-height: 27px;}
+      .custom-loan-inner-main .loan-details-list li:not(:last-child) {margin-bottom: 0px;}
+      .custom-heading h2 {
+        font-size: 28px;
+        line-height: 36px;
+        margin-bottom: 17px;
+      }
+      .custom-heading h6 {  font-size: 12px;line-height: 17px;}
+      .welcome-to-content .card {min-height: unset;}
+      .about-section-text p {font-size: 13px;}
+
+      .hero-banner {
+        margin-top: 161px;
+      }
+        .hero-banner .hero-banner-left-content .hero-banner-text .main-heading  {
+          z-index: 99;
+          padding-block: 10px;
+        }
+        .hero-banner .hero-banner-left-content .hero-banner-text .main-heading::after {
+          content: '';
+          position: absolute;
+          width: 80%;
+          height: 100%;
+          background-color: rgba(0 0 0 / 0.2);
+          top: 0;
+          left: 0;
+          right: 0;
+          margin: 0 auto;
+          z-index: -1;
+        }
+        .mortgage-loan-section.custom-pad {
+          padding-top: 0 !important;
+        }
+        .our-services-section.custom-pad {
+          padding: 0;
+        }
+        .our-services-section-left .our-services-left-content .our-services-left-list {
+          column-count: unset;
+          text-align: center;
+        }
+        .our-services-section-left .our-services-left-content .custom-heading {
+          text-align: center;
+        }
+        /* .hero-banner .hero-banner-right-content .hero-banner-form-wrap {
+          width: 64%;
+          position: absolute;
+          right: 0;
+          left: 0;
+          margin: 0 auto;
+          z-index: 999999;
+          bottom: -96px;
+          top: 220px;
+        } */
+    /* ================= sb 13.05.2022 ================= */
+
+
+      /**samar_css_starts**/
+      .how_it_works_section::before{background: none;}
+      .how_it_works_section .portion .ico_text_at{padding-bottom: 0;}
+      .why_shoose_us_section .text_part h2{font-size: 25px; line-height: 30px;}
+      .how_it_works_section .portion .com_text h2{font-size: 25px; line-height: 30px;}
+      .about_us_inner .abt_inr_text h2{font-size: 25px; line-height: 30px;}
+      .custom-inner-banner{background-position: right;}
+      .conatct_page .contact_box{height: auto; margin: 10px 0;}
+      .contact_form .text_contact h3{font-size: 25px; line-height: 30px;}
+      .conatct_page{padding: 60px 0;}
+      .contact_form{margin: -230px 0 70px 0;}
+      .contact_form_img{height: 280px;}
+      .contact_form .form_box .cont_main_section_form{padding: 30px;}
+      .hero-banner .carousel-caption{top: 20px;}
+      .hero-banner .hero-banner-left-content .hero-banner-text .main-heading{font-size: 29px; line-height: 42px;}
+      .hero-banner .carousel{height: 300px;}
+      .custom-heading h2{font-size: 26px;}
+      .hero-banner .hero-banner-left-content .hero-banner-text .main-heading{padding: 0px 12%;}
+      .loan-prog-list-ul li{font-size: 13px; line-height: 20px;}
+      .loan-prog-list-ul li span img{width: 20px;}
+      .hero-banner{margin-top: 164px;}
+      .custom-heading{margin-bottom: 40px;}
+      .hero-banner .hero-banner-left-content{padding: 60px 0;}
+      /**samar_css_ends**/
+
+    
+}
+
+@media (max-width: 585px){
+      .custom-inner-banner-content{padding: 52px 0;}
+      .hero-banner .hero-banner-right-content .hero-banner-form-wrap{width: 100%;}
+      .hero-banner .hero-banner-left-content .hero-banner-text .main-heading{font-size: 24px; line-height: 36px;}
+      .hero-banner .carousel{height: 250px;}
+      .hero-banner .hero-banner-left-content{padding: 35px 0;}
+      .header-bottom{padding: 5px 0;}
+      .hero-banner{margin-top: 135px;}
+}
+
+@media (max-width: 575.98px){
+  .loan-inner-benefits-content {flex-direction: column;}
+  .custom-loan-inner-main .loan-benefits-image {  flex: 0 0 100%;}
+  .custom-loan-inner-main .loan-benefits-text {margin-left: 0;flex: 0 0 100%;margin-top: 15px;}
+  .custom-loan-inner-main .loan-inner-right-content-top-text p { line-height: 22px;font-size: 13px;}
+
+
+    .footer-main { padding: 100px 0 50px;}
+    .footer-main .footer-content .footer-logo {left: 50%;transform: translateX(-50%);}
+    .footer-main .footer-content {text-align: center;}
+    .footer-main .footer-content .footer-socials {width: fit-content;margin: 10px auto 0;}
+    .footer-main .footer-content .footer-heading h5::after {left: 0; right: 0;margin: 0 auto;}
+    .footer-main .footer-content .footer-heading h5::before {left: -100px; right: 0;margin: 0 auto;}
+    .footer-main .footer-content .footer-logo {padding: 9px 3px;}
+
+
+    .our-services-section-right .video-box {width: 65%;};
+
+
+     /**samar_css_starts**/
+    .contact_form .text_contact h3{font-size: 22px; line-height: 28px;}
+    .contact_form .form_box .cont_main_section_form{padding: 15px;}
+    .contact_form .form_box .cont_main_section_form .contact_text_btm .button{padding: 8px 25px;}
+    .about_us_inner .abt_inr_text_two{margin-top: 0;}
+    .abt_inr_text{text-align: center;}
+    .abt_inr_text_two{text-align: center;}
+    /**samar_css_ends**/ 
+
+}
+
+@media (max-width: 540px){
+  .custom-inner-banner-content{padding: 45px 0;}
+}
+
+@media only screen and (max-width: 480px) {	
+
+    /* ================= sb 09.05.2022 ================= */
+    .header-top .header-top-content ul li p {display: none;}
+    .header-top .header-top-content ul li:not(:last-child) { margin-right: 0; }
+    .header-top .header-top-content ul li .header-top-icon-left {width: 24px;height: 24px;
+        display: inline-block;
+        background-color: var(--c-neutral-white);
+        border-radius: 50%;
+        color: var(--c-neutral-grey-dark);
+        text-align: center;
+        font-size: 14px;
+line-height: 23px;
+      }
+.navbar-brand { width: 70%;}
+.hero-banner .hero-banner-right-content .hero-banner-form-wrap { width: 100%;}
+.hero-banner .hero-banner-left-content .hero-banner-text .main-heading { font-size: 25px; padding: 0px 0%;}
+    /* ================= sb 09.05.2022 ================= */
+    /* ================= sb 13.05.2022 ================= */
+    .service-card-title {font-size: 16px;padding-bottom: 8px;}
+    .service-card-content-inner p {font-size: 12px; line-height: 19px;}
+    .service-card-content-inner {padding-left: 15px;padding-right: 15px;}
+    /* ================= sb 13.05.2022 ================= */
+
+    .navbar-brand img{width: 55%;}
+    .custom-inner-banner{margin-top: 164px;}
+    .custom-inner-banner-content{padding: 36px 0;}
+    .custom-inner-main-heading h2{font-size: 22px;}
+    .custom-inner-breadcrumb{padding: 5px 15px;}
+    .how_it_works_section{padding: 55px 0;}
+    .about_us_inner{padding: 45px 0 60px 0;}
+    .about_us_inner .img_abt_inr img{box-shadow: -7px -7px 0 0 var(--c-primary);}
+    .hero-banner .hero-banner-left-content .hero-banner-text .main-heading::after{width: 100%;}
+    .loan-prog-list-ul{column-count: 1;}
+    .loan-prog-list-ul li{font-size: 14px;}
+    .hero-banner .carousel{height: 225px;}
+    .hero-banner .hero-banner-left-content{padding: 20px 0;}
+
+}
+
+@media only screen and (max-width: 440px){
+    .custom-inner-banner{margin-top: 155px;}
+    .custom-inner-banner-content{padding: 32px 0;}
+    .hero-banner .hero-banner-left-content .hero-banner-text .main-heading{font-size: 25px;}
+    .custom-heading h2{font-size: 23px;}
+    .custom-heading h6{line-height: 15px;}
+    .hero-banner{margin-top: 130px;}
+    .hero-banner .carousel{height: 200px;}
+    .hero-banner .hero-banner-left-content{padding: 0;}
+    .custom-button{padding: 7px 15px; font-size: 12px;}
+}
+
+@media only screen and (max-width: 390px) {	
+
+  .navbar-brand img{width: 65%;}
+  .custom-inner-banner{margin-top: 160px;}
+  .custom-inner-banner-content{padding: 28px 0;}
+
+  .hero-banner-form-body form {
+    display: unset;
+  }
+  .hero-banner .carousel{height: 180px;}
+  .custom-heading h2{font-size: 21px;}
+
+}
+
+@media only screen and (max-width: 370px){
+  .header-bottom{padding: 8px 0;}
+  .custom-inner-banner{margin-top: 139px;}
+  .custom-inner-banner-content{padding: 25px 0;}
+  .hero-banner .carousel{height: 180px;}
+  .hero-banner .hero-banner-left-content .hero-banner-text .main-heading{font-size: 22px; line-height: 31px;}
+  .loan-prog-list-ul li span{width: auto;}
+  .hero-banner{margin-top: 139px;}
+  .our-services-section-right .video-box{width: 90%;}
+}
+
+@media only screen and (max-width: 320px) {	
+
+  .footer-main .footer-content .footer-logo::before {
+    border-left: 80px solid transparent;
+    border-right: 80px solid transparent;
+  }
+
+  .navbar-brand img{width: 75%;}
+  .custom-inner-main-heading h2{font-size: 20px;}
+  .header-bottom{padding: 5px 0;}
+  .custom-inner-banner{margin-top: 132px;}
+  .custom-inner-banner-content{padding: 20px 0;}
+  .hero-banner{margin-top: 132px;}
+
+}
+
